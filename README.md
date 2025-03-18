@@ -15,7 +15,6 @@ Flow-Based Point Cloud Prediction is a deep learning-based framework that predic
 ```
 Flow-based-point-cloud-prediction/
 │── experiments/        # Contains pretrained weights and experiment logs
-│── scripts/            # Main scripts for running the model
 │── datasets.py         # Data loading and preprocessing functions
 │── main.py             # Entry point to train and evaluate the model
 │── models.py           # Model architecture for flow matching
